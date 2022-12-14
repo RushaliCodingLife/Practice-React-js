@@ -1,0 +1,34 @@
+[
+    {
+        "firstname": "John",
+        "lastname": "smith",
+        "birthday": "20oct",
+        "gender": "male",
+        "email": "John@gmail.com",
+        "contact": "141254455"
+    },
+    {
+        "firstname": "Rohan",
+        "lastname": "Doe",
+        "birthday": "26sep",
+        "gender": "male",
+        "email": "Rohan@gmail.com",
+        "contact": "852654255"
+    },
+    {
+        "firstname": "Ashish",
+        "lastname": "Modh",
+        "birthday": "4aug",
+        "gender": "male",
+        "email": "Ashish@gmail.com",
+        "contact": "68941685"
+    },
+    {
+        "firstname": "Sachin",
+        "lastname": "sourab",
+        "birthday": "20oct",
+        "gender": "male",
+        "email": "Sachin@gmail.com",
+        "contact": "141254455"
+    }
+]

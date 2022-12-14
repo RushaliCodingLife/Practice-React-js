@@ -1,0 +1,47 @@
+[
+    {
+        "id" : "6",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/l2rwzgw0/trimmer/9/t/1/0-25-4-mm-s5582-20-stainless-steel-cordless-philips-original-imagefg9u7byhnzn.jpeg?q=70",
+        "title" : "PHILIPS S5582/20 Trimmer",
+        "desc" : "60 min Runtime 1 Length Settings, Blue",
+        "rating" : "3.2",
+        "price" : "₹6,600",
+        "catg" : "Electronics"
+    },
+    {
+        "id" : "7",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/l2arp8w0/water-purifier/g/2/c/110100-kent-original-imagdzbqhhtmxgup.jpeg?q=70",
+        "title" : "KENT GRAND STAR ",
+        "desc" : "9 L RO + UF + UV + UV_LED + TDS Control Water Purifier, White",
+        "rating" : "4.6",
+        "price" : "₹19,500",
+        "catg" : "Electronics"
+    },
+    {
+        "id" : "8",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/kuvkcy80/refrigerator-new/q/r/9/rf87a9770sg-182-5-na-2021-161-samsung-86-1-91-2-original-imag7wefdby7e5jw.jpeg?q=70",
+        "title" : "SAMSUNG 865 L",
+        "desc" : "Frost Free French Door Bottom Mount Refrigerator, Black Caviar, RF87A9770SG",
+        "rating" : "4.0",
+        "price" : "₹2,62,980",
+        "catg" : "Electronics"
+    },
+    {
+        "id" : "9",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/jwpa8i80/washing-machine-new/2/g/g/wau28460in-bosch-original-imafhbh3dxengxvg.jpeg?q=70",
+        "title" : "BOSCH 10 kg",
+        "desc" : "Fully Automatic Front Load with In-built Heater White, WAU28460IN",
+        "rating" : "3.5",
+        "price" : "₹78,399",
+        "catg" : "Electronics"
+    },
+    {
+        "id" : "10",
+        "img" : "https://rukminim1.flixcart.com/image/416/416/xif0q/smartwatch/g/7/l/-original-imagh932jrkynahy.jpeg?q=70",
+        "title" : "SAMSUNG Watch 5 pro 45mmSuper",
+        "desc" : "AMOLED displayBluetooth callingwith advanced GPS tracking, Gray Titanium Strap, Free Size",
+        "rating" : "4.3",
+        "price" : "₹44,999",
+        "catg" : "Electronics"
+    }
+]
